@@ -6,4 +6,5 @@ public class HelloMain {
 	public String toString() {
 		return name;
 	}
+	
 }
